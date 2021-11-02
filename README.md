@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wadelu23
-- 👀 I’m interested in Web App
-- 🌱 I’m currently learning python
+- currently major topic: Web App by python, flask, related extensions
+
 - Project Demo
     * [Simple restful API with Flask and swagger docs ](https://flask-restful-api-stores.herokuapp.com/)
     * [Small blog post web app with Flask](https://flask-simple-blog-posts.herokuapp.com/)
