@@ -2,9 +2,9 @@
 - :bow_and_arrow: currently major topic: Web App by python, flask, related extensions
 
 - :crystal_ball:Project Demo
-    * [Simple restful API with Flask and swagger docs ](https://flask-restful-api-stores.herokuapp.com/)
     * [Small blog post web app with Flask](https://flask-simple-blog-posts.herokuapp.com/)
-
+    * [Simple restful API with Flask and swagger docs ](https://flask-restful-api-stores.herokuapp.com/)
+   
 - :books:Repo
     * [Flask 架構的簡易部落格系統](https://github.com/wadelu23/flask-blog-post)
     * [簡易股票資訊爬蟲練習，搭配Dockerfile、selenium](https://github.com/wadelu23/stock-crawler-roe-grade)
