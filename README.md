@@ -1,4 +1,4 @@
-👋 Hi, I’m @wadelu23
+👋 Hi, I’m wade
 
 ### Tech Stack
 
