@@ -6,11 +6,11 @@
     * [Small blog post web app with Flask](https://flask-simple-blog-posts.herokuapp.com/)
 
 - :books:Repo
-    * [Snake BnB, like Airbnb of terminal form, using Python, Mongodb, Mongoengine](https://github.com/wadelu23/snake_bnb_mongodb)
-    * [建置 AirFlow 於WSL環境，結合爬蟲與slack，通知漫畫更新](https://github.com/wadelu23/airflow-comic)
-    * [簡易 REST API 架構，搭配JWT、Swagger](https://github.com/wadelu23/basic-RESTful-flask-e-store)
-    * [簡易股票資訊爬蟲練習，搭配Dockerfile、selenium](https://github.com/wadelu23/stock-crawler-roe-grade)
     * [Flask 架構的簡易部落格系統](https://github.com/wadelu23/flask-blog-post)
+    * [簡易股票資訊爬蟲練習，搭配Dockerfile、selenium](https://github.com/wadelu23/stock-crawler-roe-grade)
+    * [簡易 REST API 架構，搭配JWT、Swagger](https://github.com/wadelu23/basic-RESTful-flask-e-store)
+    * [建置 AirFlow 於WSL環境，結合爬蟲與slack，通知漫畫更新](https://github.com/wadelu23/airflow-comic)
+    * [Snake BnB, like Airbnb of terminal form, using Python, Mongodb, Mongoengine](https://github.com/wadelu23/snake_bnb_mongodb)
 
 
 <!---
