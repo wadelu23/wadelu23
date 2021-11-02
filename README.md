@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @wadelu23
-- currently major topic: Web App by python, flask, related extensions
+- :bow_and_arrow: currently major topic: Web App by python, flask, related extensions
 
-- Project Demo
+- :crystal_ball:Project Demo
     * [Simple restful API with Flask and swagger docs ](https://flask-restful-api-stores.herokuapp.com/)
     * [Small blog post web app with Flask](https://flask-simple-blog-posts.herokuapp.com/)
 
-- Repo
+- :books:Repo
     * [Snake BnB, like Airbnb of terminal form, using Python, Mongodb, Mongoengine](https://github.com/wadelu23/snake_bnb_mongodb)
     * [建置 AirFlow 於WSL環境，結合爬蟲與slack，通知漫畫更新](https://github.com/wadelu23/airflow-comic)
     * [簡易 REST API 架構，搭配JWT、Swagger](https://github.com/wadelu23/basic-RESTful-flask-e-store)
