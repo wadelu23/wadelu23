@@ -4,12 +4,14 @@
 
 :bow_and_arrow: Languages & Frameworks
 
-[![python](https://img.shields.io/badge/Python-66595C?logo=Python)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-66595C?logo=Flask)](https://flask.palletsprojects.com/en/2.0.x/)
+[![python](https://img.shields.io/badge/Python-66595C?logo=Python)](https://www.python.org/) 
+[![Flask](https://img.shields.io/badge/Flask-66595C?logo=Flask)](https://flask.palletsprojects.com/en/2.0.x/)
+[![Django](https://img.shields.io/badge/Django-66595C?logo=django)](https://www.djangoproject.com/)
  
 :cd:Database
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-66595C?logo=PostgreSQL)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/PostgreSQL-66595C?logo=MySQL)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-66595C?logo=MySQL)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-66595C?logo=MongoDB)](https://www.mongodb.com/)
 
 DevOps
