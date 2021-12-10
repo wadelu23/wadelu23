@@ -8,7 +8,9 @@
  
 :cd:Database
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-66595C?logo=PostgreSQL)](https://www.postgresql.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-66595C?logo=MongoDB)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-66595C?logo=PostgreSQL)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/PostgreSQL-66595C?logo=MySQL)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-66595C?logo=MongoDB)](https://www.mongodb.com/)
 
 DevOps
 
